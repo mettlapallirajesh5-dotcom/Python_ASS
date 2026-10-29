@@ -66,6 +66,7 @@ This repository contains 10 Python programs developed as part of Activity Based 
 
 #### Program 5:  Numeric Pattern Generator
 **Description:** Generates a number pattern using nested loops based on the number of rows entered by the user.
+
 **Source Code:** [View 5.PY](./5.PY)
 
 **output Preview:**
