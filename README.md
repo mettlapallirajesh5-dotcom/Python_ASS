@@ -114,8 +114,8 @@ This repository contains 10 Python programs developed as part of Activity Based 
 ![Output 9](./9.png)
 
 
-#### Program 10: Inventory Management System
-**Description:** A program to display product details like Price, Quantity, Stock Value and Stock Status (Sufficient Stock / Low Stock) as seen in output Laptop, Mouse, Keyboard.
+#### Program 10: Student Academic Risk Classification:
+**Description:** Calculates a student’s average marks and classifies academic risk as high, medium, or low.
 
 **Source Code:** [View 10.PY](./10.PY)
 
