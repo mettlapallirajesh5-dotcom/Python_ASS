@@ -124,6 +124,10 @@ This repository contains 10 Python programs developed as part of Activity Based 
 ![Output 10](./10.png)
 
 
+
+####word document of activity based learning
+   
+
 ---
 
 
