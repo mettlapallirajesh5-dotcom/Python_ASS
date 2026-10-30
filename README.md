@@ -121,13 +121,9 @@ This repository contains 10 Python programs developed as part of Activity Based 
 
 **output Preview:**
 
-![Output 10](./10.png)
-
-
-
-####word document of activity based learning
+![Output 10](./10.png
    
 
----
-
+####Activity based learning word document
+**view:**[view python word document.docx](./python word document.docx)
 
